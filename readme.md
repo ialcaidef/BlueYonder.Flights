@@ -166,9 +166,21 @@
             - In the **Server admin login** box, type **Admin123**.
             - In the **Password** and **Confirm password** boxes, type **Password99**.
             - Click **Select**.
+            
+            ![20487D_Images_Azure](https://github.com/ialcaidef/BlueYonder.Flights/blob/master/Images%20Azure/02.png)
+            
         - Click **Pricing tier**, select **Free**, and then click **Apply**.
         - Click **Select**.
     - Click **Create**.
+    
+    ![20487D_Images_Azure](https://github.com/ialcaidef/BlueYonder.Flights/blob/master/Images%20Azure/03.png)
+    
+    ![20487D_Images_Azure](https://github.com/ialcaidef/BlueYonder.Flights/blob/master/Images%20Azure/04.png)
+    
+    ![20487D_Images_Azure](https://github.com/ialcaidef/BlueYonder.Flights/blob/master/Images%20Azure/05.png)
+    
+    ![20487D_Images_Azure](https://github.com/ialcaidef/BlueYonder.Flights/blob/master/Images%20Azure/06.png)
+    
 7. To display all the SQL databases, on the left menu panel, click **SQL Databases**.
 8. To run the scripts in the database, click **Mod1DB**, then click **Query editor(preview)**.
 9. Click **Login**, enter the following password **Password99** and then click **OK**.
