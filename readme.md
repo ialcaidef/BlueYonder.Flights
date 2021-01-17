@@ -2,12 +2,6 @@
 
 # Lab: Exploring the Work Environment
 
-1. Wherever a path to a file starts with *[Repository Root]*, replace it with the absolute path to the folder in which the 20487 repository resides. 
-For example, if you cloned or extracted the 20487 repository to **C:\Users\John Doe\Downloads\20487**, change the path: **[Repository Root]\AllFiles\20487D\Mod01** to **C:\Users\John Doe\Downloads\20487\AllFiles\20487D\Mod01**.
-2. Wherever 	*{YourInitials}* appears, replace it with your actual initials. (For example, the initials for John Doe will be jd.)
-3. Before performing the demonstration, you should allow some time for the provisioning of the different Microsoft Azure resources required for the demonstration. You should review the demonstrations before the actual class, identify the resources, and prepare them beforehand to save classroom time.
-
-
 ### Exercise 1: Creating an ASP.NET Core Project
 
 #### Task 1: Create a new ASP.NET Core project
