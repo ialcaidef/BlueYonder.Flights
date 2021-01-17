@@ -1,0 +1,4 @@
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod01\Labfiles\Exercise1\Starter\BlueYonder.Flights\obj\Debug\netcoreapp2.0\BlueYonder.Flights.csprojAssemblyReference.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod01\Labfiles\Exercise1\Starter\BlueYonder.Flights\obj\Debug\netcoreapp2.0\BlueYonder.Flights.AssemblyInfoInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod01\Labfiles\Exercise1\Starter\BlueYonder.Flights\obj\Debug\netcoreapp2.0\BlueYonder.Flights.AssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod01\Labfiles\Exercise1\Starter\BlueYonder.Flights\obj\Debug\netcoreapp2.0\BlueYonder.Flights.csproj.CoreCompileInputs.cache
