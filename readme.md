@@ -151,6 +151,9 @@
     - To select the app service template, in the **All resources** blade, click **Add**.
     - To see an overview of the template, in the search box, search for **Web App + SQL** and press enter. 
     - In the **Web App + SQL** blade, click **Create**.
+    
+    ![20487D_Images_Azure](https://github.com/ialcaidef/BlueYonder.Flights/blob/master/Images%20Azure/01.png)
+    
 6. To create the **WebApp**, enter the following fields:
     - In the **App Name** box, enter the web app name **flightsmod1lab***YourInitials*.
    >**Note**: The **App Name** will be part of the URL.
